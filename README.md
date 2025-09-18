@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Build](https://github.com/<username>/<repo>/actions/workflows/main.yml/badge.svg)
+![PyPI](https://img.shields.io/pypi/v/leakage-sentinel)
+
 # Leakage Sentinel
 
 Leakage Sentinel v3 is a **production-ready data leakage detection tool** for machine learning datasets. It combines **math-based feature analysis** with **AI-assisted reporting** via Agentic LLMs to help data scientists and business analysts detect features that may leak target information, cause overfitting, or otherwise mislead models.
