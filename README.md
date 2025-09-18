@@ -1,6 +1,5 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Build](https://github.com/<username>/<repo>/actions/workflows/main.yml/badge.svg)
 ![PyPI](https://img.shields.io/pypi/v/leakage-sentinel)
 
 # Leakage Sentinel
