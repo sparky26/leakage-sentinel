@@ -1,6 +1,6 @@
-# 🧹 Leakage Sentinel v3
+# Leakage Sentinel
 
-Leakage Sentinel v3 is a **production-ready data leakage detection tool** for machine learning datasets. It combines **math-based feature analysis** with **AI-assisted reporting** via Groq to help data scientists and business analysts detect features that may leak target information, cause overfitting, or otherwise mislead models.
+Leakage Sentinel v3 is a **production-ready data leakage detection tool** for machine learning datasets. It combines **math-based feature analysis** with **AI-assisted reporting** via Agentic LLMs to help data scientists and business analysts detect features that may leak target information, cause overfitting, or otherwise mislead models.
 
 ---
 
