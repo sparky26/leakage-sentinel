@@ -18,7 +18,7 @@ Leakage Sentinel v3 is a **production-ready data leakage detection tool** for ma
   - Interactive bar charts
   - JSON and CSV downloads
   - Business scenario input for context
-- **Groq AI report** for detailed, human-readable, ELI5-style explanations and actionable recommendations.
+- **AI report** for detailed, human-readable, ELI5-style explanations and actionable recommendations.
 - **Session-state handling** to prevent page resets on report generation.
 
 ---
